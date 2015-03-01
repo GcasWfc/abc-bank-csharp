@@ -1,0 +1,5 @@
+C:\Users\luce\Desktop\abc-bank-master\abc-bank-master\abc-bank-dotnet\abc-bank\abc-bank\obj\Debug\abc-bank.csprojResolveAssemblyReference.cache
+C:\Users\luce\Desktop\abc-bank-master\abc-bank-master\abc-bank-dotnet\abc-bank\abc-bank\bin\Debug\abc-bank.dll
+C:\Users\luce\Desktop\abc-bank-master\abc-bank-master\abc-bank-dotnet\abc-bank\abc-bank\bin\Debug\abc-bank.pdb
+C:\Users\luce\Desktop\abc-bank-master\abc-bank-master\abc-bank-dotnet\abc-bank\abc-bank\obj\Debug\abc-bank.dll
+C:\Users\luce\Desktop\abc-bank-master\abc-bank-master\abc-bank-dotnet\abc-bank\abc-bank\obj\Debug\abc-bank.pdb
